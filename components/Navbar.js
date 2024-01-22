@@ -57,7 +57,7 @@ const Navbar = () => {
    
 
       {showMenu && (
-        <div onClick={hide} className="flex  gap-20 sm:fixed py-8 top-0 bg-gradient-to-tr from-[#d4a373] via-[#e9edc9] via-[#fefae0] via-[#faedcd]    to-[#ccd5ae]  sm:flex-col sm:text-center min-[1400px]:hidden max-[700px]:flex-col max-[700px]:text-center  w-full justify-center text-2xl font-semibold">
+        <div onClick={hide} className="flex  gap-20 max-[1400px]:fixed py-8 top-0 bg-gradient-to-tr from-[#d4a373] via-[#e9edc9] via-[#fefae0] via-[#faedcd]    to-[#ccd5ae]  sm:flex-col sm:text-center min-[1400px]:hidden max-[700px]:flex-col max-[700px]:text-center  w-full justify-center text-2xl font-semibold">
           <Link href={"#summary"} scroll={false}>
             Summary
           </Link>
