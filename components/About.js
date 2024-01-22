@@ -2,6 +2,8 @@ import React from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
 
+//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
+
 const About = () => {
   return (
     <div className='grid  grid-cols-2 sm:grid-cols-1 text-center gap-10 over h-full place-items-center'>
