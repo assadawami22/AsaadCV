@@ -8,7 +8,7 @@ const About = () => {
   return (
     <div className='grid  grid-cols-2 sm:grid-cols-1 text-center gap-10 over h-full place-items-center'>
         <div className='block '>
-            <Image className='max-[800px]:text-6xl flex justify-center rounded-full' src='/images/assadimg.jpg' width={300} height={300} />
+            <Image className='max-[800px]:text-6xl flex justify-center rounded-full' src='/images/assadimg.jpg' width={300} height={300} alt='im' />
         </div>
 
         <div className=' '> 

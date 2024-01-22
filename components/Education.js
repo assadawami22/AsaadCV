@@ -24,7 +24,7 @@
             </div>
 
             <div >
-                <Image className=' opacity-10' width={600} height={200} src='/images/kfupm1.png' />
+                <Image className=' opacity-10' width={600} height={200} src='/images/kfupm1.png' alt='imm' />
             </div>
           
 

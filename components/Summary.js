@@ -9,7 +9,7 @@ const Summary = () => {
         </div>
 
         <p className=' text-3xl text-left leading-snug	'>
-        As a creative and technically skilled software engineer who graduated in Aug 2023, I am seeking an entry-level position in a challenging engineering career or a related field. I am driven to apply my technical and analytical skills to contribute to an organization's objectives while broadening my skills and expertise. I am eager to take on challenging projects and to continuously learn and grow in my career.
+        As a creative and technically skilled software engineer who graduated in Aug 2023 &apos;, I am seeking an entry-level position in a challenging engineering career or a related field. I am driven to apply my technical and analytical skills to contribute to an organization&apos;'s objectives while broadening my skills and expertise. I am eager to take on challenging projects and to continuously learn and grow in my career.
         </p>
         
     </div>
