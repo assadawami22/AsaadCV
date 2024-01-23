@@ -65,7 +65,7 @@ const Navbar = () => {
           <Link href={"#academic"}>Academic Projects</Link>
           <Link href={"#skills"}>SKILLS</Link>
           <Link href={"#experiance"}>Experience</Link>
-        </div>
+               </div>
       )}
       <div className="flex gap-20 max-[1400px]:hidden   sm:flex-wrap max-[700px]:flex-col max-[700px]:text-center  w-full justify-center text-2xl font-semibold">
         <Link href={"#summary"} scroll={false}>
@@ -75,9 +75,7 @@ const Navbar = () => {
         <Link href={"#academic"}>Academic Projects</Link>
         <Link href={"#skills"}>SKILLS</Link>
         <Link href={"#experiance"}>Experience</Link>
-        <Link href={"#about"}>Experience</Link>
 
-        About
       </div>
 
       
