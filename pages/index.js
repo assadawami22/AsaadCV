@@ -53,13 +53,15 @@ export default function Home() {
       </div>
 
       <div
-        id="experianc"
+        id="experiance"
         className={` ${s400_1400} overflow-x-auto overscroll-auto focus:overscroll-contain  px-48 h-[100vh]  pt-8 bg-gradient-to-tr from-[#d4a373] via-[#e9edc9] via-[#fefae0] via-[#faedcd]    to-[#ccd5ae]`}
       >
         <Experiance />
       </div>
 
-      <div className={`${s400_1400} pb-6 overflow-x-auto overscroll-auto focus:overscroll-contain  px-48 h-[100vh]  pt-8 bg-gradient-to-tr from-[#d4a373] via-[#e9edc9] via-[#fefae0] via-[#faedcd]    to-[#ccd5ae]`}>
+      <div
+      id="about"
+       className={`${s400_1400} pb-6 overflow-x-auto overscroll-auto focus:overscroll-contain  px-48 h-[100vh]  pt-8 bg-gradient-to-tr from-[#d4a373] via-[#e9edc9] via-[#fefae0] via-[#faedcd]    to-[#ccd5ae]`}>
         <About />
       </div>
     </div>

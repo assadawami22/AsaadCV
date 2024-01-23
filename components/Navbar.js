@@ -75,6 +75,9 @@ const Navbar = () => {
         <Link href={"#academic"}>Academic Projects</Link>
         <Link href={"#skills"}>SKILLS</Link>
         <Link href={"#experiance"}>Experience</Link>
+        <Link href={"#about"}>Experience</Link>
+
+        About
       </div>
 
       
