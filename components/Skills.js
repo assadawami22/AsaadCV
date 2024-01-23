@@ -1,12 +1,14 @@
 import React from 'react'
 
 const Skills = () => {
+  const h4_from300To700 = 'min-[300px]:max-[700px]:text-1xl'
+  const h1_from300To700 = 'min-[300px]:max-[700px]:text-4xl'
   return (
     <div>
-        <h1 className='text-6xl font-bold pb-20'>SKILLS</h1>
+        <h1 className={`text-6xl ${h1_from300To700} font-bold pb-20`}>SKILLS</h1>
 
 
-        <div className='grid grid-cols-2 gap-12 '>
+        <div className='grid grid-cols-2 min-[300px]:max-[700px]:grid-cols-1  gap-12 '>
             <div className='py-8'>
                 <h4 className='text-2xl font-medium py-2'> Time management</h4>
                 <h4 className='text-2xl font-medium py-2'> Proficient in GitHub</h4>

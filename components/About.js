@@ -14,7 +14,7 @@ const About = () => {
         <div className=' '> 
             <h1 className='text-8xl  '>Asaad Alawami </h1>
             <h2 className='text-2xl'>Fresh Software Engineer</h2>
-            <Link className='text-[#6DA4AA]' href="https://www.linkedin.com/in/asaad-al-awami-083610180/">LinkedIn</Link>
+            <Link className='text-[#6DA4AA] text-xl' href="https://www.linkedin.com/in/asaad-al-awami-083610180/">LinkedIn</Link>
         </div>
     </div>
   )
